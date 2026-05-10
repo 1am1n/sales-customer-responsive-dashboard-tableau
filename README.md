@@ -62,8 +62,11 @@ The dashboards help stakeholders monitor KPIs, identify sales trends, evaluate p
 - Storytelling with Data
 - Tableau
 
+
 ---
 
 ## Author
 Mohammed Amin
 Aspiring Data Analyst | Tableau | SQL | Python | Power BI
+
+<img width="1238" height="858" alt="Screenshot 2026-05-10 at 12 54 29" src="https://github.com/user-attachments/assets/b132f004-5e3d-4ae8-8d1e-d5da3d35056f" />
