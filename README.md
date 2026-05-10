@@ -69,4 +69,12 @@ The dashboards help stakeholders monitor KPIs, identify sales trends, evaluate p
 Mohammed Amin
 Aspiring Data Analyst | Tableau | SQL | Python | Power BI
 
+## Screenshot of Customer Dashbaord
 <img width="1238" height="858" alt="Screenshot 2026-05-10 at 12 54 29" src="https://github.com/user-attachments/assets/b132f004-5e3d-4ae8-8d1e-d5da3d35056f" />
+
+## Screenshot of Customer Dashbaord
+<img width="1229" height="859" alt="Screenshot 2026-05-10 at 12 54 05" src="https://github.com/user-attachments/assets/8c7ce86f-9311-4e75-9c1c-2b39f6922b85" />
+
+## Screenshot of Filter for Users Integrated With Both Dashboards
+<img width="1224" height="846" alt="Screenshot 2026-05-10 at 12 54 57" src="https://github.com/user-attachments/assets/77bb9c6c-8f91-4af7-8856-ea9e98ee5151" />
+
